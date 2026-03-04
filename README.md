@@ -1,12 +1,10 @@
-# 🔐 Security Tool Research and Comparison
+# Security Tool Research and Comparison
 
 **DevOps Internship Task Submission**  
-**Author:** Muhammad Uzair  
-**Date:** March 03, 2026
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains my internship task focused on researching, analyzing, and comparing modern security tools used in DevOps and cybersecurity environments.
 
@@ -22,7 +20,7 @@ This research reflects how different security tools fit into a **layered securit
 
 ---
 
-## 🎯 Objective of the Task
+## Objective of the Task
 
 The main objectives of this research were:
 
@@ -38,7 +36,7 @@ The focus was on understanding how these tools integrate into a **DevSecOps work
 
 ---
 
-## 🛡️ 1. Host-Based Intrusion Detection Systems (HIDS)
+## 1. Host-Based Intrusion Detection Systems (HIDS)
 
 ### Tools Compared
 
@@ -67,7 +65,7 @@ The focus was on understanding how these tools integrate into a **DevSecOps work
 
 ---
 
-## 🔎 2. Vulnerability Scanners
+## 2. Vulnerability Scanners
 
 ### Tools Compared
 
@@ -95,7 +93,7 @@ The focus was on understanding how these tools integrate into a **DevSecOps work
 
 ---
 
-## 📊 3. Centralized Logging Solutions
+## 3. Centralized Logging Solutions
 
 ### Tools Compared
 
@@ -123,7 +121,7 @@ The focus was on understanding how these tools integrate into a **DevSecOps work
 
 ---
 
-## 💰 Cost Analysis (Open-Source vs Commercial)
+## Cost Analysis (Open-Source vs Commercial)
 
 All tools analyzed provide **open-source versions**.
 
@@ -139,7 +137,7 @@ However:
 
 ---
 
-## ⚙️ Implementation Complexity Assessment
+## Implementation Complexity Assessment
 
 | Tool | Complexity (1–5) | Notes |
 |------|------------------|-------|
@@ -155,7 +153,7 @@ However:
 
 ---
 
-## 🔄 Security Workflow Integration
+## Security Workflow Integration
 
 This research also analyzed how tools integrate into a real-world workflow:
 
@@ -178,7 +176,7 @@ This research also analyzed how tools integrate into a real-world workflow:
 
 ---
 
-## 🧠 Final Recommendation
+## Final Recommendation
 
 Based on scalability, DevOps alignment, cost-efficiency, and long-term maintainability:
 
@@ -188,24 +186,15 @@ Based on scalability, DevOps alignment, cost-efficiency, and long-term maintaina
 
 This combination provides:
 
-- ✅ Modern architecture
-- ✅ Cloud-native compatibility
-- ✅ CI/CD integration
-- ✅ Cost efficiency
-- ✅ Scalability for future growth
+- Modern architecture
+- Cloud-native compatibility
+- CI/CD integration
+- Cost efficiency
+- Scalability for future growth
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── Task_DEV_358.docx
-└── README.md
-```
-
----
-
-## 📚 Key Learning Outcomes
+## Key Learning Outcomes
 
 Through this task, I gained deeper understanding of:
 
@@ -219,7 +208,7 @@ This assignment strengthened my practical understanding of how **security tools 
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 Security tools should not be selected based solely on popularity or feature lists. Instead, they must align with:
 
